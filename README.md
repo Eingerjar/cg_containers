@@ -1,3 +1,3 @@
 # CG_CONTAINERS
 
-C++98 stl clon coding
+c++98 clone coding
